@@ -1,4 +1,5 @@
-i#include "main.h"
+#include "main.h"
+#include <stdarg.h>
 
 /****************** PRINT POINTER ******************/
 /**
